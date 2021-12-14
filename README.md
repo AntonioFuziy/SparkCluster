@@ -65,7 +65,9 @@ Primeiramente para realizar a identificação dos bots foi feito a um `groupBy("
 
 **média: 4.506656831142033**
 
-A distribuição normal tem como propriedade que 99,7% dos resultados estão dentro de  μ ± 3σ, assim quem está fora dessa área são outliers, no caso os outliers sendo os bots
+A distribuição normal tem como propriedade que 99,7% dos resultados estão dentro de  μ ± 3σ, assim quem está fora dessa área são outliers, no caso os outliers sendo os bots.
+
+Assim podemos consideramos que é um bot tendo acima de 65 reviews. 
 
 
 Através desse valor obtido pelo cálculo anterior, filtrou-se os dados e manteve-se apenas os reviews referentes aos bots, dessa forma foi possível identificar quantos bots foram identificados, esse valor obtido foi de **183.291 mil bots**.
